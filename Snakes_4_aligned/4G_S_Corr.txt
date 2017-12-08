@@ -1,0 +1,6 @@
+1 Concatenated.fasta
+2 concat_taxo.fasta
+3 CYTB_Muscle.fasta
+4 ND2_Muscle.fasta
+5 ND4_Muscle.fasta
+6 OMF_Muscle.fasta
